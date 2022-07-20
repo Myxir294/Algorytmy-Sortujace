@@ -8,4 +8,6 @@ Zrealizowano również program pomocniczy umożliwiający przetestowanie napisan
 Kompilacja programu głównego: g++ -pedantic -Wall main.cpp rand.cpp  
 Kompilacja programu pomocniczego: g++ -pedantic -Wall driver.cpp rand.cpp
 
+W repozytorium zawarto także dokument opisujący wykorzystane rozwiązania i przedstawiający opracowanie uzyskanych wyników.
+
 
