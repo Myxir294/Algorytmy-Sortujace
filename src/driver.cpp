@@ -11,9 +11,7 @@
 
 using namespace std;
 /*Program umozliwia reczne przetestowanie mechanizmow opisanych
- w tresci zadania projektowego na ocene bardzo dobra.
- Moze zostac uruchomiony z argumentem wywolania okreslajacym
- poczatkowy rozmiar kolejki.*/
+ w tresci zadania projektowego na ocene bardzo dobra.*/
 
 using namespace std;
 
