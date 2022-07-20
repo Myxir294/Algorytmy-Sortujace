@@ -5,7 +5,7 @@ Główny program umożliwia wybór algorytmu poprzez argument wywołania (q - sz
 
 Zrealizowano również program pomocniczy umożliwiający przetestowanie napisanych algorytmów na niewielkiej ilości losowo wygenerowanych danych.
 
-Kompilacja programu głównego: g++ -pedantic -Wall main.cpp rand.cpp
+Kompilacja programu głównego: g++ -pedantic -Wall main.cpp rand.cpp  
 Kompilacja programu pomocniczego: g++ -pedantic -Wall driver.cpp rand.cpp
 
 
